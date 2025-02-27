@@ -1,0 +1,13 @@
+[
+  {
+    "ContainingType": "apiOef14._6.Controllers.EnqueteController",
+    "Method": "Get",
+    "RelativePath": "Enquete",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "GetEnquete"
+  }
+]
