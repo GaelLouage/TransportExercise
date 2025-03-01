@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("apiOef14.6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f17f31c4183a8e67a20681fddba60971c981bd10")]
 [assembly: System.Reflection.AssemblyProductAttribute("apiOef14.6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("apiOef14.6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

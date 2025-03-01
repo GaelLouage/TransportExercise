@@ -31,3 +31,4 @@ C:\Users\louag\source\repos\apiOef14.6\apiOef14.6\obj\Debug\net8.0\refint\apiOef
 C:\Users\louag\source\repos\apiOef14.6\apiOef14.6\obj\Debug\net8.0\apiOef14.6.pdb
 C:\Users\louag\source\repos\apiOef14.6\apiOef14.6\obj\Debug\net8.0\apiOef14.6.genruntimeconfig.cache
 C:\Users\louag\source\repos\apiOef14.6\apiOef14.6\obj\Debug\net8.0\ref\apiOef14.6.dll
+C:\Users\louag\source\repos\apiOef14.6\apiOef14.6\obj\Debug\net8.0\apiOef14.6.sourcelink.json

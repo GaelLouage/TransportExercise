@@ -1,13 +1,28 @@
 [
   {
     "ContainingType": "apiOef14._6.Controllers.EnqueteController",
-    "Method": "Get",
-    "RelativePath": "Enquete",
+    "Method": "GetByYear",
+    "RelativePath": "api/Enquete/GetByYear",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "year",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apiOef14._6.Controllers.EnqueteController",
+    "Method": "GetEnquete",
+    "RelativePath": "api/Enquete/GetEnquete",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": [],
-    "EndpointName": "GetEnquete"
+    "ReturnTypes": []
   }
 ]

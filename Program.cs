@@ -1,5 +1,6 @@
 using apiOef14._6.Models;
 using apiOef14._6.Services.Classes;
+using apiOef14._6.Services.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
